@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/mysql-connector-java-5.1.46.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/alipay-sdk-java20170324180803.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/alipay-sdk-java20170324180803-source.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/alipay-sdk-java-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/jstl-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/smartupload.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
