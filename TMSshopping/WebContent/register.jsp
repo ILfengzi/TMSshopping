@@ -84,8 +84,8 @@ body{
 								onblur="CheckItem(this),check(this.value);" placeholder="请填写用户名"/><span id="sp"></span></td>
 						</tr>
 						<tr>
-							<td class="field">姓名：</td>
-							<td><input type="text" class="text" name="name" placeholder="请填写姓名"/></td>
+							<td class="field">用户类型：</td>
+							<td><input style="border: 0px;outline:none;" type="text" class="text" name="name" value="普通用户" readonly="readonly"/></td>
 						</tr>
 						<tr>
 							<td class="field">登录密码：</td>

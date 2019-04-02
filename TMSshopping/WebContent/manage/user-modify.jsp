@@ -61,7 +61,7 @@
 								value="${user.EU_USER_ID }" readonly="readonly" /></td>
 						</tr>
 						<tr>
-							<td class="field">姓名：</td>
+							<td class="field">用户类型：</td>
 							<td><input type="text" class="text" name="name"
 								value="${user.EU_USER_NAME }" /></td>
 						</tr>

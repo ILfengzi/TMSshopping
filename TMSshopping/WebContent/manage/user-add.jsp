@@ -135,9 +135,14 @@
 								id="sp"></span></td>
 						</tr>
 						<tr>
-							<td class="field">姓名：</td>
-							<td><input type="text" class="text" name="name"
-								onblur="checkname()" id="name" /><span id="sn"></span></td>
+							<td class="field">用户类型：</td>
+							<td><select class="text" name="name"
+								onblur="checkname()" id="name" >
+								<option>请选择</option>
+								<option>管理员</option>
+								<option>普通用户</option>
+								</select>
+								<span id="sn"></span></td>
 						</tr>
 						<tr>
 							<td class="field">密码：</td>

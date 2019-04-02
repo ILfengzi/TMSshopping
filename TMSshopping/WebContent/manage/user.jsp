@@ -54,7 +54,7 @@
 				<table class="list">
 					<tr>
 						<th>ID</th>
-						<th>姓名</th>
+						<th>用户类型</th>
 						<th>性别</th>
 						<th>Email</th>
 						<th>手机</th>
