@@ -71,7 +71,7 @@
 					<c:forEach var="o" items="${order}">
 						<tr>
 							<td class="first w4 c">${o.EO_ID }</td>
-							<td class="w1 c">${o.EO_USER_NAME }</td>
+							<td class="w1 c">${o.EO_USER_ID }</td>
 							<td>${o.EO_USER_ADDRESS }</td>
 							<td class="w1 c">${o.orderStatusStr}</td>
 							<td class="w1 c"><a href="touporder?id=${o.EO_ID }">修改</a> <a

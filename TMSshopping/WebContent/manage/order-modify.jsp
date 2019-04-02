@@ -62,7 +62,7 @@
 						<tr>
 							<td class="field">订购人姓名：</td>
 							<td><input type="text" class="text" name="name"
-								value="${order.EO_USER_NAME }" readonly="readonly" /></td>
+								value="${order.EO_USER_ID }" readonly="readonly" /></td>
 						</tr>
 						<tr>
 							<td class="field">收货地址</td>

@@ -109,7 +109,7 @@ public class EASYBUY_ORDERDao {
 				params.add(id);
 			}
 			if(name!=null && !"".equals(name)){
-				query_sql += " and EO_USER_NAME like ? ";
+				query_sql += " and EO_USER_ID like ? ";
 				params.add("%"+name+"%");
 			}
 			query_sql+=" order by EO_ID desc limit ?,?";
